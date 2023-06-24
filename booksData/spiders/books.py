@@ -5,7 +5,7 @@ import datetime
 import scrapy
 from pathlib import Path
 
-client = MongoClient("mongodb+srv://test-data-scraping:Parmar-123@data-scraping.pksegyo.mongodb.net/")
+client = MongoClient("mongodb+srv://test-data-scraping:<password>@data-scraping.pksegyo.mongodb.net/")
 
 db = client.BooksData            # Books is our collection name
 
