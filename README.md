@@ -1,4 +1,4 @@
-<h1>Data Scraping and Storage using Scrapy and PyMongo</h1>
+<h1>Data Scraping using Scrapy and PyMongo</h1>
 
 <h3> Welcome to the Data Scraping and Storage GitHub repository! 
 This project focuses on utilizing the Scrapy web scraping framework to extract data of Travel and Mystery books from https://books.toscrape.com/index.html and storing it in a MongoDB Atlas database using PyMongo.
